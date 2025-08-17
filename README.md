@@ -1,11 +1,11 @@
 # HFdownloader.com
 
+![HFdownloader logo](https://github.com/LMLK-seal/HFdownloader/blob/main/logo.png?raw=true)
+
 [![Website](https://img.shields.io/website?url=https%3A//hfdownloader.com)](https://hfdownloader.com)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 > A streamlined web application for downloading entire Hugging Face model repositories as single ZIP files.
-
-![HFdownloader logo](https://github.com/LMLK-seal/HFdownloader/blob/main/logo.png?raw=true)
 
 ## 🚀 Features
 
