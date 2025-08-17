@@ -24,6 +24,7 @@ Visit **[HFdownloader.com](https://hfdownloader.com)** to start downloading mode
 2. **Click Download**: Press the "Start Download" button to begin
 3. **Monitor Progress**: Watch the real-time progress and status updates
 4. **Receive ZIP File**: Your complete model repository will be delivered as a ZIP archive
+`Note: Models that require accepting license terms on the Hugging Face Hub may fail to download.`
 
 ## 🎯 Use Cases
 
