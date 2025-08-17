@@ -5,6 +5,8 @@
 
 > A streamlined web application for downloading entire Hugging Face model repositories as single ZIP files.
 
+![HFdownloader logo](https://github.com/LMLK-seal/HFdownloader/blob/main/logo.png?raw=true)
+
 ## 🚀 Features
 
 - **Simple Interface**: Clean, intuitive design for effortless model downloads
