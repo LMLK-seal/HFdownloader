@@ -31,6 +31,17 @@ Visit **[HFdownloader.com](https://hfdownloader.com)** to start downloading mode
 ## 💡 ChatBot
 
 - I've added a chatbot that loads a downloaded model folder and lets you chat with an AI.
+```bash
+# Install required packages
+pip install customtkinter tkinter pathlib configparser
+```
+1. **Load Your Model:**: Type your message into the input box at the bottom and press Enter.
+2. **Start Chatting (Optional):** Use the "Load File (TXT/PDF)" button to add context from a document to your conversation.
+3. **Set GPU Offload (Optional):**
+- Before loading a model, look at the "GPU Offload" setting on the right. This lets you run large models by splitting them between your fast GPU and your computer's regular RAM.
+- -1 (Auto - Recommended): The app automatically puts as many layers as possible onto your GPU. This is the best option to try first.
+- A positive number (e.g., 20): Manually set how many layers to load onto the GPU. Use this to fine-tune memory usage.
+- 0: Runs the entire model on the CPU. This is the slowest option, but works if you don't have a powerful GPU.
 
 ## 🎯 Use Cases
 
