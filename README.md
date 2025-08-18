@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/website?url=https%3A//hfdownloader.com)](https://hfdownloader.com)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-> A streamlined web application for downloading entire Hugging Face model repositories as single ZIP files.
+> **[HFdownloader.com](https://hfdownloader.com)** is a streamlined web application for downloading entire Hugging Face model repositories as single ZIP files.
 
 ## 🚀 Features
 
@@ -27,6 +27,10 @@ Visit **[HFdownloader.com](https://hfdownloader.com)** to start downloading mode
 3. **Monitor Progress**: Watch the real-time progress and status updates
 4. **Receive ZIP File**: Your complete model repository will be delivered as a ZIP archive
 - `Note: Models that require accepting license terms on the Hugging Face Hub may fail to download.`
+
+## 💡 ChatBot
+
+- I've added a chatbot that loads a downloaded model folder and lets you chat with an AI.
 
 ## 🎯 Use Cases
 
