@@ -5,14 +5,13 @@
 [![Website](https://img.shields.io/website?url=https%3A//hfdownloader.com)](https://hfdownloader.com)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-> **[HFdownloader.com](https://hfdownloader.com)** is a streamlined web application for downloading entire Hugging Face model repositories as single ZIP files.
+> **[HFdownloader.com](https://hfdownloader.com)** is a streamlined web application for downloading entire Hugging Face AI model files.
 
 ## 🚀 Features
 
 - **Simple Interface**: Clean, intuitive design for effortless model downloads
 - **Complete Repository Download**: Download entire model repositories, including all files and configurations
 - **Progress Tracking**: Real-time download progress with detailed status logs
-- **ZIP Compression**: All models packaged as convenient ZIP archives
 - **Wide Model Support**: Compatible with thousands of models from the Hugging Face Hub
 - **No Installation Required**: Browser-based tool - no software installation needed
 
@@ -25,7 +24,6 @@ Visit **[HFdownloader.com](https://hfdownloader.com)** to start downloading mode
 1. **Enter Model ID**: Input the Hugging Face model identifier (e.g., `unsloth/Llama-3.2-3B-Instruct`)
 2. **Click Download**: Press the "Start Download" button to begin
 3. **Monitor Progress**: Watch the real-time progress and status updates
-4. **Receive ZIP File**: Your complete model repository will be delivered as a ZIP archive
 - `Note: Models that require accepting license terms on the Hugging Face Hub may fail to download.`
 
 ## 💡 ChatBot
